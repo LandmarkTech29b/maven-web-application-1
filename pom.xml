@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.211.72.211:5000/repository/ebay-snp/</url>
+	      <url>http://54.211.72.211:5000/repository/ebay-snp-re/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
