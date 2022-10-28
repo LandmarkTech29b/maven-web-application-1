@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.206.124.166:8081/landmark/repository/tesla-fe-snapshot/</url>
+	      <url>http://54.211.72.211:5000/repository/ebay-snp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
